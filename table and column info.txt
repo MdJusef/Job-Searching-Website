@@ -1,0 +1,41 @@
+sliders
+----------
+title
+description
+slider_image
+
+categories
+--------------
+category_name
+status
+
+companyinfo
+-----------
+company_name
+address
+company_logo
+status
+
+Job
+-------
+category_id
+company_id
+vacancy
+employment_status
+experience
+age
+job_location
+salary
+job_responsibilities
+educational  
+skills
+compensation
+job_source
+published_date
+Application_deadline_date 
+
+In GitLab Push Code command:
+=> git add .
+=> git commit -m "save Job Code"
+=> git push -u origin main
+
